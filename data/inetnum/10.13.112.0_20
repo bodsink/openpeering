@@ -1,0 +1,10 @@
+inetnum:            10.13.112.0 - 10.13.127.255
+cidr:               10.13.112.0/20
+netname:            OPOSBOY-NETWORK
+admin-c:            OPISBOY-DN42
+tech-c:             OPISBOY-DN42
+mnt-by:             OPISBOY-MNT
+nserver:            ns1.opisboy.net
+nserver:            ns2.opisboy.net
+status:             ASSIGNED
+source:             DN42

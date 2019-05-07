@@ -1,0 +1,11 @@
+inet6num:           fdc1:031f:b14f:0000:0000:0000:0000:0000 - fdc1:031f:b14f:ffff:ffff:ffff:ffff:ffff
+netname:            PRAUSCHER-ULA-IP6NET
+nserver:            nameserver.prauscher.dn42
+descr:              prauschers ULA IPv6 network
+country:            DE
+admin-c:            PRAUSCHER-DN42
+tech-c:             PRAUSCHER-DN42
+mnt-by:             PRAUSCHER-MNT
+status:             ASSIGNED
+cidr:               fdc1:31f:b14f::/48
+source:             DN42
